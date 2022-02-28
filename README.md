@@ -6,6 +6,7 @@ Here are some ideas to get you started:
   Dcard analysis laravel for restapi, react native and  react for frontend service
 - 🌱 I’m currently learning:
   Docker, Spring Boot, Next.js
+- 👯 I’m looking to collaborate on: Intern ship
 - 📫 How to reach me: 
   yuyuchia7423@gmail.com
 - ⚡ Fun fact:
