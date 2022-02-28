@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yu Chia, Yu</h1>
-<!-- <img src="https://komarev.com/ghpvc/?username=Chia1104&style=for-the-badge&color=blueviolet" /> -->
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=Chia1104&style=for-the-badge&color=blueviolet" />
 
 - 🔭 I’m currently working on:
   Dcard analysis laravel for restapi, react native and  react for frontend service
