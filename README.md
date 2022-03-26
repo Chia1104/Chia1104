@@ -53,17 +53,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>  
 </div>
-<h2>Trophy</h2>
+<!-- <h2>Trophy</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chia1104&theme=nord" />
-</div>
+</div> -->
 <h2>GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chia1104&count_private=true&show_icons=true&theme=material-palenight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chia1104&layout=compact&theme=material-palenight&count_private=true&show_icons=true&langs_count=8" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Chia1104&theme=react&date_format=M%20j%5B%2C%20Y%5D&stroke=4802BC&background=6A26DD2B&ring=4802BC" />
 </div>
-<h2>LeetCode Stats</h2>
+<!-- <h2>LeetCode Stats</h2>
 <div align="center">
   <img src="https://leetcode.card.workers.dev/Chia1104?theme=nord&font=baloo&extension=activity" />
-</div>
+</div> -->
