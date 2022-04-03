@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on:
   Dcard analysis laravel for restapi, react native and  react for frontend service
 - 🌱 I’m currently learning:
-  Docker, Spring Boot, Next.js, Nest.js
+  Docker, Next.js, Nest.js
 - 👯 I’m looking to collaborate on: Intern ship
 - 📫 How to reach me: 
   yuyuchia7423@gmail.com
@@ -28,9 +28,9 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a>
+  </a> -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
   </a>
