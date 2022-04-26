@@ -10,7 +10,7 @@
   yuyuchia7423@gmail.com
 - ⚡ Fun fact:
   [Spotify](https://open.spotify.com/user/21vnijzple4ufn2nzlfjy37py?si=b5f011d11a794ba4) / 
-  [GitHub Stats](https://skyline.github.com/Chia1104/2022)
+  [Chia1104's 2022 GitHub Skyline](https://skyline.github.com/Chia1104/2022)
 
 <h2>Languages and Tools</h2>
 <div align="center"> 
