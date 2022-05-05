@@ -2,7 +2,7 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=Chia1104&style=for-the-badge&color=blueviolet" /> -->
 
 - 🔭 I’m currently working on:
-  Dcard analysis laravel for restapi, react native and  react for frontend service
+My personal website with NextJS
 - 🌱 I’m currently learning:
   Docker, Next.js, Nest.js, TypeScript, Go
 - 👯 I’m looking to collaborate on: Intern ship
