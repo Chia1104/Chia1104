@@ -1,4 +1,6 @@
 ## Example
+<img src="https://komarev.com/ghpvc/?username=Chia1104&style=for-the-badge&color=blueviolet" />
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,java,php,react,next,vue,tailwind,laravel,nest,mongo,firebase,postgres" />
 </div>
