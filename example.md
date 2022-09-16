@@ -12,5 +12,3 @@
 <div align="center">
   <img src="https://leetcode.card.workers.dev/Chia1104?theme=nord&font=baloo&extension=activity" />
 </div>
-
-[![Spotify](https://spot-right-now.vercel.app/api/spotify)](https://spotify-top.com/user/21vnijzple4ufn2nzlfjy37py)
