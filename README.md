@@ -1,15 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Yu Chia, Yu</h1>
 
-- 🔭 I’m currently working on:
-My personal website with NextJS
-- 🌱 I’m currently learning:
-  Docker, Next.js, Nest.js, TypeScript, Go
-- 👯 I’m looking to collaborate on: Intern ship
+- 🔭 I'm currently trying to work on some open source projects.
+- 🌱 Someone who likes to try everything with an open mind.
+- 🤟 A Full-Stack, JAMstack lover.
 - 📫 How to reach me: 
   yuyuchia7423@gmail.com
 - ⚡ Fun fact:
   [Spotify](https://open.spotify.com/user/21vnijzple4ufn2nzlfjy37py?si=b5f011d11a794ba4) / 
-  [Chia1104's 2022 GitHub Skyline](https://skyline.github.com/Chia1104/2022)
+  [Chia1104's 2023 GitHub Skyline](https://skyline.github.com/Chia1104/2023)
 
 <h2>Languages and Tools</h2>
 <div align="center">
