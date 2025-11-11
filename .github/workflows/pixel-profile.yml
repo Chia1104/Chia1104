@@ -24,8 +24,7 @@ jobs:
       - name: generate github stats card
         uses: LuciNyan/pixel-profile/action@main
         with:
-          outputs: |
-            dist/github-stats?username=Chia1104&screen_effect=true&theme=summer
+          outputs: "dist/github-stats?username=Chia1104&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb)"
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
